@@ -1,4 +1,4 @@
-# VITyarthi-Digitial-Literacy
+# VITyarthi-Digital-Literacy
 Digital Literacy Portfolio
 Course Code: CSE0001
 
